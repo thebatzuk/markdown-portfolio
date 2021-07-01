@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![grounds t-shirt](https://i.redd.it/47k1adfqy0t51.jpg)
