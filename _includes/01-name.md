@@ -1,2 +1,2 @@
-# thebatzuk
-###### header size 6 just for shits and jiggles
+# Do you hear that thunder?
+###### that's the sound of strength in numbers
